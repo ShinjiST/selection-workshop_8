@@ -39,9 +39,9 @@
     <td align="center">Картка 3 (червона)</td>
   </tr>
   <tr>
-    <td><img src="images/Frame 1.png" height="150px"></td>
-    <td><img src="images/Frame 2.png" height="150px"></td>
-    <td><img src="images/Frame 3.png" height="150px"></td>
+    <td><img src="images/Frame 1.png" height="450px"></td>
+    <td><img src="images/Frame 2.png" height="450px"></td>
+    <td><img src="images/Frame 3.png" height="450px"></td>
   </tr>
 </table>
 
@@ -53,9 +53,9 @@
     <td align="center">Картка 6 (червона)</td>
   </tr>
   <tr>
-    <td><img src="images/Frame 4.png" height="150px"></td>
-    <td><img src="images/Frame 5.png" height="150px"></td>
-    <td><img src="images/Frame 6.png" height="150px"></td>
+    <td><img src="images/Frame 4.png" height="450px"></td>
+    <td><img src="images/Frame 5.png" height="450px"></td>
+    <td><img src="images/Frame 6.png" height="450px"></td>
   </tr>
 </table>
 
@@ -69,7 +69,7 @@
 
 ### Робочий процес
 <p align="center">
-  <img src="images/Figma_card_workspace.png" height="450px">
+  <img src="images/Figma(workspace).png" height="450px">
 </p>
 
 ### Висновок  
