@@ -69,7 +69,7 @@
 
 ### Робочий процес
 <p align="center">
-  <img src="images/Figma(workspace).png" height="950px">
+  <img src="images/Figma(workspace).png" height="750px">
 </p>
 
 ### Висновок  
